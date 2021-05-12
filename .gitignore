@@ -1,3 +1,5 @@
+/.docker/.env
+/.docker/images/php/php.ini
 /.idea
 /vendor
 /composer.lock
